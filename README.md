@@ -32,7 +32,7 @@ No specific installation steps are needed. Simply clone the project and run it i
 https://emrhdmn.github.io/zomato-realestate-main/
 
 ## Screen
-
+![](/screen.gif)
 ## Contact
 
 For any questions, feedback, or collaboration offers related to this real estate website project, please feel free to contact us. You can reach us via [iemrhdmn@gmail.com] or [https://github.com/emrhdmn].
